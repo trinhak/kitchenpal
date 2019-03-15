@@ -1,0 +1,51 @@
+{
+  "name": "pinaland",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "ios-open": "open ios/*.xcodeproj",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android",
+    "lint": "eslint src *.js",
+    "remotedev": "remotedev-debugger --injectserver",
+    "postinstall": "npm run remotedev && rndebugger-open"
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "16.6.3",
+    "react-native": "0.58.6",
+    "react-native-gesture-handler": "^1.1.0",
+    "react-navigation": "3.3.2",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-actions": "^2.6.5",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "24.3.1",
+    "babel-plugin-module-resolver": "^3.2.0",
+    "babel-plugin-transform-remove-console": "^6.9.4",
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.12.4",
+    "jest": "24.3.1",
+    "metro-react-native-babel-preset": "^0.53.0",
+    "pre-commit": "^1.2.2",
+    "react-native-debugger-open": "^0.3.18",
+    "react-test-renderer": "^16.8.4",
+    "remote-redux-devtools": "^0.5.16",
+    "remotedev-rn-debugger": "^0.8.4"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
