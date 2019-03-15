@@ -2,8 +2,7 @@ import React, { PureComponent } from 'react';
 import {
   StyleSheet,
   Text,
-  View,
-  TouchableOpacity
+  View
 } from 'react-native';
 
 const styles = StyleSheet.create({
