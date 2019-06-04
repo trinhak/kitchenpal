@@ -24,6 +24,7 @@ export default class App extends PureComponent {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>Welcome to Kitchenpal</Text>
+        <Text>hello</Text>
       </View>
     );
   }
