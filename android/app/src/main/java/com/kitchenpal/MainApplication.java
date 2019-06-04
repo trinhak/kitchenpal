@@ -1,4 +1,4 @@
-package com.loci;
+package com.kitchenpal;
 
 import android.app.Application;
 

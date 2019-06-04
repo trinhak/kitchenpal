@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "loci-tvOS.app"
-               BlueprintName = "loci-tvOS"
-               ReferencedContainer = "container:loci.xcodeproj">
+               BuildableName = "kitchenPal-tvOS.app"
+               BlueprintName = "kitchenPal-tvOS"
+               ReferencedContainer = "container:kitchenPal.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "loci-tvOSTests.xctest"
-               BlueprintName = "loci-tvOSTests"
-               ReferencedContainer = "container:loci.xcodeproj">
+               BuildableName = "kitchenPal-tvOSTests.xctest"
+               BlueprintName = "kitchenPal-tvOSTests"
+               ReferencedContainer = "container:kitchenPal.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "loci-tvOSTests.xctest"
-               BlueprintName = "loci-tvOSTests"
-               ReferencedContainer = "container:loci.xcodeproj">
+               BuildableName = "kitchenPal-tvOSTests.xctest"
+               BlueprintName = "kitchenPal-tvOSTests"
+               ReferencedContainer = "container:kitchenPal.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "loci-tvOS.app"
-            BlueprintName = "loci-tvOS"
-            ReferencedContainer = "container:loci.xcodeproj">
+            BuildableName = "kitchenPal-tvOS.app"
+            BlueprintName = "kitchenPal-tvOS"
+            ReferencedContainer = "container:kitchenPal.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "loci-tvOS.app"
-            BlueprintName = "loci-tvOS"
-            ReferencedContainer = "container:loci.xcodeproj">
+            BuildableName = "kitchenPal-tvOS.app"
+            BlueprintName = "kitchenPal-tvOS"
+            ReferencedContainer = "container:kitchenPal.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "loci-tvOS.app"
-            BlueprintName = "loci-tvOS"
-            ReferencedContainer = "container:loci.xcodeproj">
+            BuildableName = "kitchenPal-tvOS.app"
+            BlueprintName = "kitchenPal-tvOS"
+            ReferencedContainer = "container:kitchenPal.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
