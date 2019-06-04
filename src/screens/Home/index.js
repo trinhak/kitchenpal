@@ -23,7 +23,7 @@ export default class App extends PureComponent {
   render() {
     return (
       <View style={styles.container}>
-        <Text style={styles.welcome}>Welcome to Loci</Text>
+        <Text style={styles.welcome}>Welcome to Kitchenpal</Text>
       </View>
     );
   }
